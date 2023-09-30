@@ -31,8 +31,20 @@ table {
 
   th {
     font-weight: bold;
+    white-space: nowrap;
+
   }
+  td {
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+  }
+  td:last-child {
+    padding-right: 0;
+  }
+
 }
+
+
 
 a,
 table.table a {
