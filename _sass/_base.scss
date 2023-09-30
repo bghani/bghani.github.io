@@ -24,15 +24,15 @@ hr {
 }
 
 table {
-  td,
-  th {
+  border-spacing: 15px 0px;
+  td, th {
+    color: var(--global-text-color);
     font-size: 1rem;
   }
-
   th {
-    font-weight: bold;
     white-space: nowrap;
-
+    font-weight: bold;
+    color: var(--global-text-color-light);
   }
   td {
     padding-left: 7.5px;
@@ -41,24 +41,21 @@ table {
   td:last-child {
     padding-right: 0;
   }
-
 }
 
 
 
-a,
-table.table a {
+a, table.table a {
   color: var(--global-theme-color);
-
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
   }
-
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
 }
+
 
 .table-dark {
   background-color: transparent;
