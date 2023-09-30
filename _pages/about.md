@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc..
+subtitle: Postdoctoral Fellow in AI & Biodiversity](https://www.naturalis.nl/en/burooj-ghani)
 
 
 profile:
@@ -10,6 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Naturalis Biodiversity Center</p>
     <p>Darwinweg 2</p>
     <p>2333 CR Leiden</p>
     <p>The Netherlands</p>
