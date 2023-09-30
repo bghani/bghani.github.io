@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "[Postdoctoral Fellow in AI & Biodiversity](https://www.naturalis.nl/en/burooj-ghani)"
+subtitle: "[Postdoctoral Fellow in AI & Biodiversity](https://www.naturalis.nl/en/burooj-ghani/)"
 
 
 profile:
