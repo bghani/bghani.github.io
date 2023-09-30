@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-09-22 15:59:00-0400
 inline: true
-related_posts: false
+related_posts: false 
 ---
 
-A simple inline announcement.
+Presented my work on bird sound classification at the MAMBO project meeting in Malta. 
