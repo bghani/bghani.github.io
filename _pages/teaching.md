@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## projects
 - I'm currently working toward developing audio recognition algorithms to identify a variety of European taxa including birds, bats, marine mammals, pollinating insects, and grasshoppers. This work is conducted as part of the [HorizonEU](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) projects [MAMBO](https://mambo-project.eu), [GUARDEN](https://guarden.org) and [TETTRIs](https://www.ecsa.ngo/cases/tettris/). 
 
 
