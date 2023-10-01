@@ -21,7 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My interests lie at the intersection of sound-based machine learning and ecology to inform the conservation of biodiversity. Bringing the power of Artificial intelligence and bioacoustics to biodiversity monitoring. I currently work within the realm of three EU-funded projects MAMBO, GUARDEN and TETTRIs to advance biodiversity conservation by developing machine learning methods for detecting and classifying animal vocalisations.
+My interests lie at the intersection of sound-based machine learning and ecology to inform the conservation of biodiversity. Bringing the power of Artificial intelligence and bioacoustics to biodiversity monitoring. 
+
+By harnessing machine learning techniques, I aim to develop innovative methods for detecting and classifying animal vocalisations. This has the potential to greatly benefit wildlife experts, conservation biologists and ecologists by providing automated tools for long-term environmental monitoring. The central focus of my work lies in processing extensive datasets of environmental sounds, enabling the extraction of valuable insights into the hidden world of animal communication. In nature, while many animals are visually elusive, their vocalizations offer a wealth of information about their habitats, seasonal changes, and interactions. Traditional methods of analyzing these sounds have been time-consuming and laborious. My goal is to create automated processes that accelerate and streamline the analysis, ultimately contributing to the protection and conservation of our planet's diverse species and ecosystems.
 
 <!--  [Postdoctoral Fellow in AI & Biodiversity](https://www.naturalis.nl/en/burooj-ghani). Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 
