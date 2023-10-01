@@ -11,6 +11,9 @@ nav_order: 2
 
 {% include figure.html path="assets/img/pipeline.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
+- Collaborated with researchers from [K. Lisa Yang Center for Conservation Bioacoustics](https://www.birds.cornell.edu/ccb/) and Google Brain on a project to investigate the utility of feature embeddings from multiple large scale audio-based deep learning classifiers for varied fine and course-grained bioacoustics classification tasks.  
+
+{% include figure.html path="assets/img/tsne.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 ## mentorship
 - 2022 - Co-supervised Drew Priebe (Tilburg University) on his BSc thesis titled: “Efficient speech detection in environmental audio using acoustic recognition and model distillation”
