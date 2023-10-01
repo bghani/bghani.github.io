@@ -11,7 +11,7 @@ nav_order: 2
 
 {% include figure.html path="assets/img/pipeline.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
-- Collaborated with researchers from [K. Lisa Yang Center for Conservation Bioacoustics](https://www.birds.cornell.edu/ccb/) and Google Brain on a project to investigate the utility of feature embeddings from multiple large scale audio-based deep learning classifiers for varied fine and course-grained bioacoustics classification tasks.  
+- Collaborated with [Stefan Kahl](https://www.birds.cornell.edu/home/staff/stefan-kahl/) and [Holger Klinck](https://www.birds.cornell.edu/ccb/holger-klinck/) from [K. Lisa Yang Center for Conservation Bioacoustics](https://www.birds.cornell.edu/ccb/) and [Tom Denton](https://inventingsituations.net) from Google Brain on a project to investigate the utility of feature embeddings from multiple large scale audio-based deep learning classifiers for varied fine and course-grained bioacoustics classification tasks.  
 
 {% include figure.html path="assets/img/tsne.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
