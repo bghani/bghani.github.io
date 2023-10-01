@@ -9,7 +9,8 @@ nav_order: 2
 
 - I'm currently working toward developing audio recognition algorithms to identify a variety of European taxa including birds, bats, marine mammals, pollinating insects, and grasshoppers. This work is conducted as part of the [HorizonEU](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) projects [MAMBO](https://mambo-project.eu), [GUARDEN](https://guarden.org) and [TETTRIs](https://www.ecsa.ngo/cases/tettris/). 
 
-<img src="/assets/img/project_pipeline.jpg" alt="Project Pipeline" />
+{% include figure.html path="assets/img/project_pipeline.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+This image can also have a caption. It's like magic.
 
 ## mentorship
 - 2022 - Co-supervised Drew Priebe (Tilburg University) on his BSc thesis titled: “Efficient speech detection in environmental audio using acoustic recognition and model distillation”
