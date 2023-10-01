@@ -13,7 +13,6 @@ nav_order: 2
 {% include figure.html path="assets/img/pipeline.jpg" title="example image" width="750px" height="350px" %}
 
 <br>
-<br>
 
 - Collaborated with [Stefan Kahl](https://www.birds.cornell.edu/home/staff/stefan-kahl/) and [Holger Klinck](https://www.birds.cornell.edu/ccb/holger-klinck/) from [K. Lisa Yang Center for Conservation Bioacoustics](https://www.birds.cornell.edu/ccb/) and [Tom Denton](https://inventingsituations.net) from Google Brain on a project to investigate the utility of feature embeddings from multiple large scale audio-based deep learning classifiers for varied fine and course-grained bioacoustics classification tasks.  
 
@@ -21,10 +20,8 @@ nav_order: 2
 
 <br>
 <br>
-<br>
 
 ## mentorship
-<br>
 <br>
 
 - 2022 - Co-supervised Drew Priebe ([Tilburg University](https://www.tilburguniversity.edu)) on his BSc thesis titled: “Efficient speech detection in environmental audio using acoustic recognition and model distillation”.
