@@ -9,7 +9,7 @@ nav_order: 2
 
 - I'm currently working toward developing audio recognition algorithms to identify a variety of European taxa including birds, bats, marine mammals, pollinating insects, and grasshoppers. This work is conducted as part of the [HorizonEU](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) projects [MAMBO](https://mambo-project.eu), [GUARDEN](https://guarden.org) and [TETTRIs](https://www.ecsa.ngo/cases/tettris/). 
 
-![Pipeline of our recent bird classification model](/data/burooj/bghani.github.io/assets/img/pipeline.jpg)
+<img src="/assets/img/project_pipeline.jpg" alt="Project Pipeline" />
 
 ## mentorship
 - 2022 - Co-supervised Drew Priebe (Tilburg University) on his BSc thesis titled: “Efficient speech detection in environmental audio using acoustic recognition and model distillation”
