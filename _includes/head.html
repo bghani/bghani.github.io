@@ -21,15 +21,12 @@
     <link href="{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet" />
     {% endif %}
 
-    <!-- Styles -->
-    {% if site.icon.size <= 4 %}
-    <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
-    {% elsif site.icon != blank %}
-    <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}"/>
-    {% endif %}
+   <!-- Styles -->
+    <!-- Use your custom favicon -->
+    <link rel="shortcut icon" type="image/png" href="{{ "favicon.png" | absolute_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
 
     <!-- Dark Mode -->
     {% if site.enable_darkmode %}
