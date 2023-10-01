@@ -19,7 +19,7 @@ nav_order: 2
 
 ## mentorship
 </br>
-</br>
+
 - 2022 - Co-supervised Drew Priebe ([Tilburg University](https://www.tilburguniversity.edu)) on his BSc thesis titled: “Efficient speech detection in environmental audio using acoustic recognition and model distillation”.
 
 - 2022 - Co-supervised six students from [HvA Amsterdam](https://www.hva.nl) on their project on automated audio classification titled: [“Sing A Song”](https://vriesn23.dev.hihva.nl/aai-naturalis-1/) through [ARISE](https://www.arise-biodiversity.nl). 
