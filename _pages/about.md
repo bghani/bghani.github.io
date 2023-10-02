@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Naturalis Biodiversity Center  </p>
+    <p>Naturalis Biodiversity Center,  </p>
     <p>Darwinweg 2</p>
-    <p>2333 CR Leiden  </p>
+    <p>2333 CR Leiden,  </p>
     <p>The Netherlands</p>
 
 news: true  # includes a list of news items
