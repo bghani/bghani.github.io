@@ -37,7 +37,7 @@ themselves. Everything is waiting for you.
 
 <br>
 
--- Written and read by David Whyte
+-- David Whyte
 
 
 {% include figure.html path="assets/img/malta.jpg" title="example image" width="100%" class="img-fluid" %}
