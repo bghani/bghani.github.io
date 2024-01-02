@@ -7,38 +7,14 @@ nav: true
 nav_order: 3
 ---
 
-## Everything is Waiting for You
-<br>
-Your great mistake is to act the drama  
-as if you were alone. As if life  
-were a progressive and cunning crime  
-with no witness to the tiny hidden  
-transgressions. To feel abandoned is to deny  
-the intimacy of your surroundings. Surely,  
-even you, at times, have felt the grand array;  
-the swelling presence, and the chorus, crowding  
-out your solo voice. You must note  
-the way the soap dish enables you,  
-or the window latch grants you freedom.  
-Alertness is the hidden discipline of familiarity.
-The stairs are your mentor of things  
-to come, the doors have always been there  
-to frighten you and invite you,  
-and the tiny speaker in the phone  
-is your dream-ladder to divinity.  
+In this spread out instance of a lifetime, we carve out little chunks of illusions to get a grasp on our lives: We label these neatly as years, months, weeks, days, and so on; granting us some mastery over the fleeting nature of sight and memory, a semblance of control. Yet, in our quest for predictability, we are perpetually confronted with life’s inherent uncertainty. No matter how much we try, we cannot bypass it. Often, the order of these temporal illusions follows a linearity, but there are moments when a day can stretch longer than a month, and a second can hold a lifetime’s worth of meaning. There is no escape from this dichotomy, and we are forever condemned to its beauty and its turmoil.
 
-Put down the weight of your aloneness and ease into the  
-conversation. The kettle is singing  
-even as it pours you a drink, the cooking pots  
-have left their arrogant aloofness and  
-seen the good in you at last. All the birds  
-and creatures of the world are unutterably  
-themselves. Everything is waiting for you.  
+However, within this chaos lies hope, ensconced in evanescent moments that twinkle like lover’s eyes in the darkest hours, guiding us through another year. As we stand on the brink of the new and reminisce the old, let’s embrace the unpredictable journey with all the courage we can muster, find solace in the little joys, and cherish the hopeful whispers of moments yet to unfold.
 
+Here’s wishing you all a very Happy New Year!
+
+
+{% include figure.html path="assets/img/hobbes.jpg" title="example image" width="100%" class="img-fluid" %}
 <br>
 
--- David Whyte
-
-
-{% include figure.html path="assets/img/malta.jpg" title="example image" width="100%" class="img-fluid" %}
 
