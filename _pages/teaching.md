@@ -26,6 +26,8 @@ nav_order: 2
 ## mentorship
 <br>
 
+- 2024 - Co-supervising Sophie Van der Voorst and Linde Zandvliet on their project titled “AI-Based Avian Sound Recognition in Transect Monitoring”.
+
 - 2024 - Supervising Syed Aadam Ahmad on his masters thesis in which he will develop a species recognition ML-algorithm for the breeding birds of Kashmir. 
 
 - 2023 - Co-supervised Drew Priebe ([Tilburg University](https://www.tilburguniversity.edu)) on his BSc thesis titled: “Efficient speech detection in environmental audio using acoustic recognition and model distillation”.
