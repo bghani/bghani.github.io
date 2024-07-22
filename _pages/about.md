@@ -7,7 +7,7 @@ subtitle: "[Postdoctoral Fellow in AI & Biodiversity](https://www.naturalis.nl/e
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: burooj_ghani.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <div>Naturalis Biodiversity Center</div>
