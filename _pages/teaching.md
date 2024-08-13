@@ -26,14 +26,14 @@ nav_order: 2
 ## mentorship
 <br>
 
-- 2024 - Co-supervising Vincent Kather on his PhD titled “Identifying unknown species and unknown sounds using machine learning”.
+- 2024 - Supervising Vincent Kather on his PhD titled “Identifying unknown species and unknown sounds using machine learning”.
 
-- 2024 - Co-supervising Sophie Van der Voorst and Linde Zandvliet on their project titled “AI-Based Avian Sound Recognition in Transect Monitoring”.
+- 2024 - Supervising Sophie Van der Voorst and Linde Zandvliet on their project titled “AI-Based Avian Sound Recognition in Transect Monitoring”.
 
-- 2024 - Supervising Syed Aadam Ahmad on his masters thesis in which he will develop a species recognition ML-algorithm for the breeding birds of Kashmir. 
+- 2024 - Supervised Syed Aadam Ahmad on his masters thesis titled "Integrating bioacoustics and machine learning for avifauna monitoing in Kashmir". 
 
-- 2023 - Co-supervised Drew Priebe ([Tilburg University](https://www.tilburguniversity.edu)) on his BSc thesis titled: “Efficient speech detection in environmental audio using acoustic recognition and model distillation”.
+- 2023 - Supervised Drew Priebe ([Tilburg University](https://www.tilburguniversity.edu)) on his BSc thesis titled: “Efficient speech detection in environmental audio using acoustic recognition and model distillation”.
 
-- 2023 - Co-supervised six students from [HvA Amsterdam](https://www.hva.nl) on their project on automated audio classification titled: [“Sing A Song”](https://vriesn23.dev.hihva.nl/aai-naturalis-1/) through [ARISE](https://www.arise-biodiversity.nl). 
+- 2023 - Supervised six students from [HvA Amsterdam](https://www.hva.nl) on their project on automated audio classification titled: [“Sing A Song”](https://vriesn23.dev.hihva.nl/aai-naturalis-1/) through [ARISE](https://www.arise-biodiversity.nl). 
 
 Please [contact me via email](mailto:burooj.ghani[at]naturalis.nl) for enquiries about BSc or MSc thesis projects at Naturalis Biodiversity Center.
