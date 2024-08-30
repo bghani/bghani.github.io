@@ -2,7 +2,7 @@
 layout: post
 title: blog
 permalink: /blog/
-nav: true
+nav: false
 nav_order: 4
 description: "This is a blog post page where I share articles with mathematical equations."
 toc: false
