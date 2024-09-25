@@ -5,4 +5,4 @@ inline: true
 related_posts: false 
 ---
 
-Just launched the 2024 edition of the [Few-shot Bioacoustic Event Detection task within the DCASE challenge](https://dcase.community/challenge2024/task-few-shot-bioacoustic-event-detection). 
+Just launched the 2024 edition of the [Few-shot bioacoustic event detection task](https://dcase.community/challenge2024/task-few-shot-bioacoustic-event-detection) within the DCASE challenge. 
