@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[New preprint out!](https://arxiv.org/abs/2409.15383) in which we explore different transfer learning methods, pre-trained models, and dataset characteristics to understand the effect on classification performance, especially out-of-distribution performance.
+[New preprint out!](https://arxiv.org/abs/2409.15383) in which we explore different transfer learning methods, pre-trained models, and dataset characteristics to understand the effect on birdsong classification performance, especially out-of-distribution performance.
