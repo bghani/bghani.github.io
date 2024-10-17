@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 {% include figure.html path="assets/img/moon.jpg" title="example image" width="120%" class="img-fluid" %}
+<p class="image-caption">Taken on 16th October 2024, Leiden.</p>
 
 “We call it a grain of sand,  
 but it calls itself neither grain nor sand.  
