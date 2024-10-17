@@ -7,12 +7,54 @@ nav: true
 nav_order: 3
 ---
 
-{% include figure.html path="assets/img/love_me.jpg" title="example image" width="120%" class="img-fluid" %}
+{% include figure.html path="assets/img/moon.jpg" title="example image" width="120%" class="img-fluid" %}
 
+“We call it a grain of sand,  
+but it calls itself neither grain nor sand.  
+It does just fine, without a name,  
+whether general, particular,  
+permanent, passing,  
+incorrect, or apt.  
 
-In the equation of fulfillment, pain is an essential variable. As humans, we constantly create and refine stories about our lives. Suffering, while painful and unwelcome, plays a crucial role in shaping and evolving these narratives. It is through facing and overcoming challenges we grow, find deeper meaning, and ultimately achieve a sense of fulfillment.
+Our glance, our touch means nothing to it.  
+It doesn’t feel itself seen and touched.  
+And that it fell on the windowsill  
+is only our experience, not its.  
+For it, it is not different from falling on anything else  
+with no assurance that it has finished falling  
+or that it is falling still.  
 
-"God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." -- Serenity Prayer
+The window has a wonderful view of a lake,  
+but the view doesn’t view itself.  
+It exists in this world  
+colorless, shapeless,  
+soundless, odorless, and painless.  
+
+The lake’s floor exists floorlessly,  
+and its shore exists shorelessly.  
+The water feels itself neither wet nor dry  
+and its waves to themselves are neither singular nor plural.  
+They splash deaf to their own noise  
+on pebbles neither large nor small.  
+
+And all this beheath a sky by nature skyless  
+in which the sun sets without setting at all  
+and hides without hiding behind an unminding cloud.  
+The wind ruffles it, its only reason being  
+that it blows.  
+
+A second passes.  
+A second second.  
+A third.  
+But they’re three seconds only for us.  
+
+Time has passed like courier with urgent news.  
+But that’s just our simile.  
+The character is inverted, his hasts is make believe,  
+his news inhuman.”  
+
+― Wisława Szymborska, View with a Grain of Sand: Selected Poems
+
 
 
 
