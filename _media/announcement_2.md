@@ -5,4 +5,4 @@ inline: true
 related_posts: false 
 ---
 
-Nature Today: [A birdsong AI joins the world's biggest bird sound forum](https://www.naturetoday.com/intl/en/nature-reports/message/?msg=33042). 
+Nature Today: [A birdsong AI joins the world's biggest bird sound forum](https://www.naturetoday.com/intl/en/nature-reports/message/?msg=33042) 
