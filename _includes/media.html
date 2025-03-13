@@ -1,15 +1,15 @@
 <div class="media">
     {% if site.media != blank -%} 
-    {%- assign news_size = site.media | size -%}
-    <div class="table-responsive" {% if site.media_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
+    {%- assign media_size = site.media | size -%}
+    <div class="table-responsive" {% if site.media_scrollable and media_size > 3 %}style="max-height: 10vw"{% endif %}>
       <table class="table table-sm table-borderless">
-      {%- assign news = site.media | reverse -%}
+      {%- assign media = site.media | reverse -%}
       {% if site.media_limit %}
-      {% assign news_limit = site.media_limit %}
+      {% assign media_limit = site.media_limit %}
       {% else %}
-      {% assign news_limit = news_size %}
+      {% assign media_limit = news_size %}
       {% endif %}
-      {% for item in news limit: news_limit %} 
+      {% for item in media limit: media_limit %} 
         <tr>
           <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
           <td>
