@@ -47,6 +47,12 @@ layout: default
             {%- include news.html limit=true %}
           {%- endif %}
 
+          <!-- In media -->
+          {% if page.media and site.announcements.enabled -%}
+            <h2><a href="{{ '/media/' | relative_url }}" style="color: inherit;">media</a></h2>
+            {%- include media.html limit=true %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
