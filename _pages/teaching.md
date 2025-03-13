@@ -26,9 +26,11 @@ nav_order: 2
 ## mentorship
 <br>
 
+- 2025 - Supervising Hilde Hummel on her PhD titled “Machine learning algorithms for underwater acoustics”.
+
 - 2024 - Supervising Vincent Kather on his PhD titled “Identifying unknown species and unknown sounds using machine learning”.
 
-- 2024 - Supervising Sophie Van der Voorst and Linde Zandvliet on their project titled “AI-Based Avian Sound Recognition in Transect Monitoring”.
+- 2024 - Supervised Sophie Van der Voorst and Linde Zandvliet on their project titled “AI-Based Avian Sound Recognition in Transect Monitoring”.
 
 - 2024 - Supervised Syed Aadam Ahmad on his masters thesis titled "Integrating bioacoustics and machine learning for avifauna monitoing in Kashmir". 
 
