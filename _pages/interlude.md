@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-{% include figure.html path="assets/img/ground.jpg" title="example image" width="120%" class="img-fluid" %}
+{% include figure.html path="assets/img/ground.jpg" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Lunteren, Netherlands – February 2025</p>
 
 
