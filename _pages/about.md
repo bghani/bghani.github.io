@@ -7,7 +7,7 @@ subtitle: "[Scientific Researcher in AI & Biodiversity](https://www.naturalis.nl
 
 profile:
   align: right
-  image: burooj_ghani.jpg
+  image: bghani.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <div>Naturalis Biodiversity Center</div>
