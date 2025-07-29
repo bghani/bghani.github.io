@@ -5,4 +5,4 @@ inline: true
 related_posts: false 
 ---
 
-Nature: [Artificial Intelligence for animal sounds is getting more intelligent](https://www.naturetoday.com/intl/en/nature-reports/message/?msg=34163) 
+Nature Today: [Artificial Intelligence for animal sounds is getting more intelligent](https://www.naturetoday.com/intl/en/nature-reports/message/?msg=34163) 
