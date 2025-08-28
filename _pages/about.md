@@ -14,6 +14,7 @@ profile:
     <div>Naturalis Biodiversity Center</div>
     <div>Darwinweg 2 2333 CR Leiden</div>
     <div>The Netherlands</div>
+    </div>
 
 news: true  # includes a list of news items
 media: true
