@@ -10,6 +10,7 @@ profile:
   image: bghani.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <div style="font-size: 12px;">
     <div>Naturalis Biodiversity Center</div>
     <div>Darwinweg 2 2333 CR Leiden</div>
     <div>The Netherlands</div>
