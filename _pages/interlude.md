@@ -9,7 +9,7 @@ nav_order: 3
 
 
 
-{% include figure.html path="assets/img/IMG_6037.jpg" title="example image" width="100%" class="img-fluid" %}
+{% include figure.html path="assets/img/IMG_6081.JPG" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Grammos, Greece – July 2025</p>
 
 Who made the world?  
