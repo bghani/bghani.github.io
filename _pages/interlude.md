@@ -7,7 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+{% include figure.html path="assets/img/smile.JPEG" title="example image" width="100%" class="img-fluid" %}
+<p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Barcelona, Spain – October 2025</p>
 
+"One ought, every day at least, to hear a little song, read a good poem, see a fine painting, and, if it were possible, to speak a few reasonable words."
+
+— Johann Wolfgang von Goethe
 
 {% include figure.html path="assets/img/grasshopper.JPEG" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Grammos, Greece – July 2025</p>
