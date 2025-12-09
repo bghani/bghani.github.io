@@ -7,6 +7,14 @@ nav: true
 nav_order: 3
 ---
 
+{% include figure.html path="assets/img/SD.jpg" title="example image" width="100%" class="img-fluid" %}
+<p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">San Diego, USA – December 2025</p>
+
+"...To never simplify what is complicated or complicate what is simple. To respect strength, never power. Above all, to watch. To try and understand. To never look away. And never, never to forget."
+
+— Arundhati Roy
+
+
 {% include figure.html path="assets/img/smile.JPEG" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Barcelona, Spain – October 2025</p>
 
