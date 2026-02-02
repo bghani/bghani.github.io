@@ -7,6 +7,33 @@ nav: true
 nav_order: 3
 ---
 
+{% include figure.html path="assets/img/nepal.JPEG" title="example image" width="100%" class="img-fluid" %}
+<p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Nagarkot, Nepal – December 2025</p>
+
+Some people –
+that means not everyone.
+Not even most of them, only a few.
+Not counting school, where you have to,
+and poets themselves,
+you might end up with something like two per thousand.
+
+Like –
+but then, you can like chicken noodle soup,
+or compliments, or the color blue,
+your old scarf,
+your own way,
+petting the dog.
+
+Poetry –
+but what is poetry anyway?
+More than one rickety answer
+has tumbled since that question first was raised.
+But I just keep on not knowing, and I cling to that
+like a redemptive handrail.
+
+— Wisława Szymborska
+
+
 {% include figure.html path="assets/img/SD.jpg" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">San Diego, USA – December 2025</p>
 
