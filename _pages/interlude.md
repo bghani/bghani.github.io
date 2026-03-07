@@ -10,7 +10,7 @@ nav_order: 3
 {% include figure.html path="assets/img/rainforest.JPEG" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Fredberg, Suriname – February 2026</p>
 
-<iframe src='https://xeno-canto.org/1084049/embed' scrolling='no' frameborder='0' width='100%' height='420'></iframe>
+<iframe src='https://xeno-canto.org/1084049/embed' scrolling='no' frameborder='0' width='100%'></iframe>
 
 
 {% include figure.html path="assets/img/birdsnsnow.jpg" title="example image" width="100%" class="img-fluid" %}
