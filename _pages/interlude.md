@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 
+<iframe src='https://xeno-canto.org/1084049/embed' scrolling='no' frameborder='0' width='340' height='220'></iframe>
+
+
 {% include figure.html path="assets/img/birdsnsnow.jpg" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Srinagar, Kashmir – January 2026</p>
 
