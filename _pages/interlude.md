@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<iframe src='https://xeno-canto.org/1084049/embed' scrolling='no' frameborder='0' width='100%'></iframe>
+<iframe src='https://xeno-canto.org/1084049/embed' scrolling='no' frameborder='0' width='100%' height='420'></iframe>
 
 
 {% include figure.html path="assets/img/birdsnsnow.jpg" title="example image" width="100%" class="img-fluid" %}
