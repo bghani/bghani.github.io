@@ -6,6 +6,17 @@ title: interlude
 nav: true
 nav_order: 3
 ---
+{% include figure.html path="assets/img/eclipse.PNG" title="example image" width="100%" class="img-fluid" %}
+<p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Katwijk, Netherlands – August 2026</p>
+
+And all that is now   
+And all that is gone   
+And all that's to come   
+And everything under the sun is in tune (Everything)   
+But the sun is eclipsed by the moon   
+
+— Roger Waters
+
 
 {% include figure.html path="assets/img/rainforest.JPEG" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Amazon rainforest, Suriname – February 2026</p>
