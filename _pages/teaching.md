@@ -25,6 +25,7 @@ nav_order: 2
 
 ## mentorship
 <br>
+- 2026 - Supervising Welmoed Eversteijn and Jagoda Hanuszewicz on their masters thesis projects on deep learning for bats and anurans, respectively.
 
 - 2025 - Supervising Hilde Hummel on her PhD titled “Machine learning algorithms for underwater acoustics”.
 
