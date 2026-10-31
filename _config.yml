@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Burooj 
 middle_name: 
 last_name: Ghani
-email: burooj.ghani[at]naturalis.nl
+email: burooj.ghani@naturalis.nl # obfuscated on the page by jekyll-email-protect
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Burooj Ghani: researcher at Naturalis Biodiversity Center working on machine learning and bioacoustics for biodiversity monitoring.
 footer_text: >
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: bghani # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: calvin_the_cat
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
