@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: Where my work is heading, and where you could join in.
 nav: true
-nav_order: 2
+nav_order: 1
 redirect_from:
   - /teaching/
 ---
