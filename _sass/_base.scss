@@ -1093,3 +1093,24 @@ nav[data-toggle="toc"] {
   margin: 0 auto;
 }
 
+// Narrow figure: image and caption stacked, ~70% wide on desktop, full width on mobile
+.figure-narrow {
+  flex-direction: column;
+
+  > picture,
+  > figcaption {
+    width: 70%;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  @media (max-width: 576px) {
+    > picture,
+    > figcaption {
+      width: 100%;
+    }
+  }
+}
+

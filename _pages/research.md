@@ -35,9 +35,9 @@ This is the direction I'm most excited about: moving from *recognising* sounds t
 
 ## Representation learning for bioacoustics
 
-{% include figure.html path="assets/img/tsne.jpg" class="img-fluid rounded z-depth-1" caption="[e.g. UMAP of birdsong embeddings coloured by species]" %}
-
 A good representation of animal sound does most of the heavy lifting. If embeddings capture what makes calls distinct, a classifier for a new species group can be built from a handful of examples, and unknown sounds can be explored without labels. My early work showed that embeddings learned from global birdsong transfer surprisingly well, even to taxa that aren't birds. Since then I've been asking when and why transfer works, how best to adapt large pretrained models to small, specialised datasets, and how far bioacoustic foundation models generalise beyond the data they were trained on.
+
+{% include figure.html path="assets/img/tsne.jpg" class="img-fluid rounded z-depth-1" figure_class="figure-narrow" caption="Birdsong embeddings from [model], coloured by species: similar calls cluster together." %}
 
 This area connects the other two: better representations make recognition cheaper and discovery possible.
 
@@ -55,9 +55,9 @@ This area connects the other two: better representations make recognition cheape
 
 ## Automated species recognition
 
-{% include figure.html path="assets/img/pipeline.jpg" class="img-fluid rounded z-depth-1" caption="[e.g. spectrogram strip of a bird, bat, insect and frog call]" %}
-
 Species recognition is the workhorse of passive acoustic monitoring, and it's far from solved once you leave well-recorded birds. I build recognisers across taxa, including birds, bats, insects and frogs, each with its own challenges: ultrasonic calls, tiny datasets, closely related species that sound almost identical, and recordings that look nothing like the training data.
+
+{% include figure.html path="assets/img/pipeline.jpg" class="img-fluid rounded z-depth-1" figure_class="figure-narrow" %}
 
 Increasingly, my focus is on what happens *after* the model: making predictions reliable enough to support ecological conclusions. That includes calibration and per-species thresholds, honest evaluation on independent data, and using ecological knowledge, such as geography and taxonomy, to make models more useful rather than just more accurate.
 
