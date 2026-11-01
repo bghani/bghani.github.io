@@ -4,7 +4,7 @@ title: code & projects
 permalink: /code/
 description: Open tools for working with animal sound, and things built with them.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <style>
