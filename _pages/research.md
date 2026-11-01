@@ -34,7 +34,7 @@ Advances in representation learning underpin the other two themes: more informat
 
 **Selected outputs**
 - [Global birdsong embeddings enable superior transfer learning for bioacoustic classification](https://www.nature.com/articles/s41598-023-49989-z). *Scientific Reports*, 2023.
-- [Transfer learning methods, pretrained models and dataset characteristics in birdsong classification](https://www.nature.com/articles/s41598-025-00996-2) [replace with exact title]. *Scientific Reports*, 2025.
+- [Transfer learning methods, pretrained models and dataset characteristics in birdsong classification](https://www.nature.com/articles/s41598-025-00996-2). *Scientific Reports*, 2025.
 - [Linear probing enables Ship-Radiated Noise recognition with pretrained audio embeddings](https://www.sciencedirect.com/science/article/pii/S1574954126001159) *Ecological Informatics*, 2026 
 - Co-organiser, NeurIPS 2025 workshop on [AI for Non-Human Animal Communication](https://aiforanimalcomms.org).
 
