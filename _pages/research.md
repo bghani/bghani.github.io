@@ -15,9 +15,9 @@ Passive acoustic monitoring makes it possible to observe animal communities cont
 
 The sections below outline each research theme, the people involved, and the main outputs to date.
 
-Students, researchers and collaborators with interests in any of these areas are welcome to [get in touch](mailto:burooj.ghani@naturalis.nl).
-
 [Representation learning for bioacoustics](#representation-learning-for-bioacoustics) · [Automated species recognition](#automated-species-recognition) · [Soundscape analysis and discovery](#soundscape-analysis-and-discovery) 
+
+Students, researchers and collaborators with interests in any of these areas are welcome to [get in touch](mailto:burooj.ghani@naturalis.nl).
 
 ---
 
