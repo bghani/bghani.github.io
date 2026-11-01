@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bghani.github.io/sitemap.xml
+Sitemap: https://buroojghani.com/sitemap.xml
