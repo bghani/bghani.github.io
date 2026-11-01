@@ -9,7 +9,11 @@ redirect_from:
   - /teaching/
 ---
 
-Passive acoustic monitoring makes it possible to observe animal communities continuously, non-invasively and at large spatial scales. Its value for ecology, however, depends on our ability to convert large volumes of field recordings into information reliable enough to support ecological inference. My research addresses three interrelated problems that lie between data collection in the field and robust estimates of biodiversity. A broader perspective on the field is given in [Twelve quick tips for applying deep learning to animal sounds](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014604). The sections below outline each research theme, the people involved, and the main outputs to date.
+Passive acoustic monitoring makes it possible to observe animal communities continuously, non-invasively and at large spatial scales. Its value for ecology, however, depends on our ability to convert large volumes of field recordings into information reliable enough to support ecological inference. My research addresses three interrelated problems that lie between data collection in the field and robust estimates of biodiversity. A broader perspective on the field is given in [Twelve quick tips for applying deep learning to animal sounds](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014604).
+
+{% include figure.html path="assets/img/journal.pcbi.1014604.g001.PNG" class="img-fluid rounded z-depth-1" figure_class="figure-narrow" caption=" An integrated lifecycle for bioacoustic machine learning." %}
+
+The sections below outline each research theme, the people involved, and the main outputs to date.
 
 Students, researchers and collaborators with interests in any of these areas are welcome to [get in touch](mailto:burooj.ghani@naturalis.nl).
 

@@ -52,7 +52,7 @@ nav_order: 2
   }
 </style>
 
-<p class="cp-intro">Most of these began as something I needed for my own research and turned out to be useful to others. Each one does one job, and all of them are open.</p>
+<p class="cp-intro">Most of these began as something I needed for my own research and turned out to be useful to others. All of them are open.</p>
 
 <div class="cp-label">Software</div>
 
@@ -78,8 +78,8 @@ nav_order: 2
   <div class="cp-name"><a href="https://github.com/bghani/zenodo-uploader">zenodo-uploader</a></div>
   <div class="cp-body">
     <p>Upload large datasets to Zenodo without the browser timing out. Compresses directories automatically, retries failed transfers and verifies checksums, from the command line or in Python.</p>
-    <span class="cp-cmd">pip install git+https://github.com/bghani/zenodo-uploader</span>
-    <div class="cp-meta">Python · CLI · Builds on code by Pranav Durai · <a href="https://github.com/bghani/zenodo-uploader">GitHub</a></div>
+    <span class="cp-cmd">pip install zupload</span>
+    <div class="cp-meta">Python · CLI · <a href="https://github.com/bghani/zenodo-uploader">GitHub</a></div>
   </div>
 </div>
 
