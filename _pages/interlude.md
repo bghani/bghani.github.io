@@ -4,7 +4,7 @@ permalink: /interlude/
 title: interlude
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 {% include figure.html path="assets/img/eclipse.PNG" title="example image" width="100%" class="img-fluid" %}
 <p class="image-caption" style="text-align: right; margin-top: 5px; font-size: 0.8em;">Katwijk, Netherlands – August 2026</p>
