@@ -26,7 +26,7 @@ Students, researchers and collaborators with interests in any of these areas are
 
 Learned representations are central to computational bioacoustics. Embeddings that capture the acoustic features distinguishing one vocalisation from another allow classifiers for new taxa to be trained from few labelled examples, and make it possible to explore unlabelled recordings. In earlier work, we showed that embeddings learned from large-scale birdsong data transfer effectively to other bioacoustic classification tasks, including taxa other than birds. My current work examines the conditions under which such transfer succeeds, strategies for adapting large pretrained models to small, specialised datasets, and the extent to which bioacoustic foundation models generalise beyond their training distribution.
 
-{% include figure.html path="assets/img/tsne.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Animal sound embeddings: similar sounds cluster together." %}
+{% include figure.html path="assets/img/tsne.jpg" class="img-fluid rounded z-depth-1" figure_class="figure-wide" zoomable=true caption="Animal sound embeddings: similar sounds cluster together." %}
 
 
 Advances in representation learning underpin the other two themes: more informative embeddings reduce the annotation effort required for species recognition and enable the discovery of unknown sound sources.

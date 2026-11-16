@@ -1113,4 +1113,18 @@ nav[data-toggle="toc"] {
     }
   }
 }
+.figure-wide {
+  display: flex;
+  flex-direction: column;   // caption under the image
+  align-items: center;
+  width: 100%;
+  max-width: none;
+  margin: 1.5rem auto;
+
+  figcaption {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    text-align: center;
+  }
+}
 
