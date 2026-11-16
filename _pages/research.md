@@ -63,8 +63,7 @@ An increasing focus of my work is the reliability of model outputs for ecologica
 
 A large proportion of the sounds captured in field recordings do not correspond to any class known to a trained model: unlabelled species, undescribed call types, and sounds of non-biological origin. In the ecosystems where monitoring is most needed, such as tropical forests, freshwater systems and the marine environment, labelled data are scarce and unknown sound sources often outnumber known ones. Closed-set classifiers, by design, cannot identify sounds outside their training classes.
 
-{% include figure.html path="assets/img/listening_europe_wildlife-1.png" class="img-fluid rounded z-depth-1" figure_class="figure-narrow" %}
-
+{% include figure.html path="assets/img/listening_europe_wildlife-1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Our work in this area therefore shifts the emphasis from the *recognition* of individual sounds to the *characterisation* of soundscapes. This involves identifying structure in unlabelled audio, detecting novel sound sources, and prioritising the recordings that most warrant expert annotation. Methods of interest include clustering and novelty detection in embedding space, open-set recognition, and active learning approaches for building labelled datasets efficiently from very limited initial annotation.
 
