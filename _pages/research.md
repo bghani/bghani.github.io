@@ -11,7 +11,7 @@ redirect_from:
 
 Passive acoustic monitoring makes it possible to observe animal communities continuously, non-invasively and at large spatial scales. Its value for ecology, however, depends on our ability to convert large volumes of field recordings into information reliable enough to support ecological inference. My research addresses three interrelated problems that lie between data collection in the field and robust estimates of biodiversity. A broader perspective on the field is given in [Twelve quick tips for applying deep learning to animal sounds](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014604).
 
-{% include figure.html path="assets/img/journal.pcbi.1014604.g001.PNG" class="img-fluid rounded z-depth-1" zoomable=true caption=" An integrated lifecycle for bioacoustic machine learning." %}
+{% include figure.html path="assets/img/journal.pcbi.1014604.g001.PNG" class="img-fluid rounded z-depth-1" figure_class="figure-wide" zoomable=true caption=" An integrated lifecycle for bioacoustic machine learning." %}
 
 
 The sections below outline each research theme, the people involved, and the main outputs to date.
@@ -46,7 +46,7 @@ Advances in representation learning underpin the other two themes: more informat
 
 Automated species recognition is a core component of passive acoustic monitoring, yet it remains a challenging problem beyond well-documented species. We have developed classifiers for a range of taxa, including birds, bats, insects and anurans, each of which poses distinct challenges: ultrasonic vocalisations, limited training data, acoustically similar closely related species, and pronounced domain shift between training data and field recordings.
 
-{% include figure.html path="assets/img/pipeline.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/pipeline.jpg" class="img-fluid rounded z-depth-1" figure_class="figure-wide" zoomable=true %}
 
 An increasing focus of my work is the reliability of model outputs for ecological inference. This includes calibration and species-specific decision thresholds, rigorous evaluation on independent test data, and the integration of ecological prior knowledge, such as geographic range and taxonomic structure, so that model predictions are judged by their ecological utility rather than by accuracy alone.
 
@@ -65,7 +65,7 @@ An increasing focus of my work is the reliability of model outputs for ecologica
 
 A large proportion of the sounds captured in field recordings do not correspond to any class known to a trained model: unlabelled species, undescribed call types, and sounds of non-biological origin. In the ecosystems where monitoring is most needed, such as tropical forests, freshwater systems and the marine environment, labelled data are scarce and unknown sound sources often outnumber known ones. Closed-set classifiers, by design, cannot identify sounds outside their training classes.
 
-{% include figure.html path="assets/img/listening_europe_wildlife-1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/listening_europe_wildlife-1.png" class="img-fluid rounded z-depth-1" figure_class="figure-wide" zoomable=true %}
 
 Our work in this area therefore shifts the emphasis from the *recognition* of individual sounds to the *characterisation* of soundscapes. This involves identifying structure in unlabelled audio, detecting novel sound sources, and prioritising the recordings that most warrant expert annotation. Methods of interest include clustering and novelty detection in embedding space, open-set recognition, and active learning approaches for building labelled datasets efficiently from very limited initial annotation.
 
